@@ -1,17 +1,17 @@
 ## Hey, I'm Jesiel Viana! 👋
 
-🧑‍🏫  Professor at Instituto Federal do Piauí - IFPI <br>
-🇧🇷  Living in Picos - PI, Brazil
+🧑‍🏫  &nbsp; Professor at Instituto Federal do Piauí - IFPI <br>
+🇧🇷  &nbsp; Living in Picos - PI, Brazil
 
 ### What I'm working on 👨‍💻
-🔭  I’m currently working on [PBL Planner Online](https://pblplanner.online) <br>
-🌱  I’m currently learning Typescript, Svelte, Shape Up... <br>
-👯  I’m looking to collaborate on Groupware Research, PBL and Education in Software Engineering. <br>
-💬  Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, PBL... <br>
+🔭  &nbsp; I’m currently working on [PBL Planner Online](https://pblplanner.online) <br>
+🌱  &nbsp; I’m currently learning Typescript, Svelte, Shape Up... <br>
+👯  &nbsp; I’m looking to collaborate on Groupware Research, PBL and Education in Software Engineering. <br>
+💬  &nbsp; Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, PBL... <br>
 
 ### 📫 How to reach me? 🌎
 
-🚀 [Site](https://jesielviana.github.io) <br>
-🐦 [Twitter](https://twitter.com/jesielviana) <br>
-📸 [Instagram](https://instagram.com/jesielviana) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/jesielviana) <br>
+🚀 &nbsp; [Site](https://jesielviana.github.io) <br>
+🐦 &nbsp; [Twitter](https://twitter.com/jesielviana) <br>
+📸 &nbsp; [Instagram](https://instagram.com/jesielviana) <br>
+💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/jesielviana) <br>
