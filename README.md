@@ -10,11 +10,35 @@
 💬  &nbsp; Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, PBL... <br>
 
 ### 📫 How to reach me? 🌎
+[![Twitter Follow](https://img.shields.io/twitter/follow/jesielviana?style=social)](https://twitter.com/jesielviana)
+[![Linkedin: Jesiel Viana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesielviana/)](https://www.linkedin.com/in/jesielviana/)
+[![Instagram: jesielviana](https://img.shields.io/badge/-Instagram-mediumvioletred?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/jesielviana)](http://instagram.com/jesielviana)
 
-🚀 &nbsp; [Site](https://jesielviana.github.io) <br>
-🐦 &nbsp; [Twitter](https://twitter.com/jesielviana) <br>
-📸 &nbsp; [Instagram](https://instagram.com/jesielviana) <br>
-💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/jesielviana) <br>
+🚀 &nbsp; [Teacher Site](https://jesielviana.github.io) <br>
+
+
+## ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesielviana&hide=html&layout=compact" />
