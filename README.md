@@ -4,7 +4,7 @@
 🇧🇷  &nbsp; Living in Picos - PI, Brazil
 
 ### What I'm working on 👨‍💻
-🔭  &nbsp; I’m currently working on [PBL Planner Online](https://pblplanner.online) <br>
+🔭  &nbsp; I’m currently working on [PBL Planner Online](https://pblplanner.jesielviana.com) <br>
 🌱  &nbsp; I’m currently learning Typescript, Svelte, Shape Up... <br>
 👯  &nbsp; I’m looking to collaborate on Groupware Research, PBL and Education in Software Engineering. <br>
 💬  &nbsp; Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, PBL... <br>
@@ -14,7 +14,7 @@
 [![Linkedin: Jesiel Viana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesielviana/)](https://www.linkedin.com/in/jesielviana/)
 [![Instagram: jesielviana](https://img.shields.io/badge/-Instagram-mediumvioletred?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/jesielviana)](http://instagram.com/jesielviana)
 
-🚀 &nbsp; [Teacher Site](https://jesielviana.github.io) <br>
+🚀 &nbsp; Check out my [website](https://www.jesielviana.com/) <br>
 
 
 ## ⚡ Technologies
