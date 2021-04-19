@@ -12,7 +12,7 @@
 ### 📫 How to reach me? 🌎
 [![Twitter Follow](https://img.shields.io/twitter/follow/jesielviana?style=social)](https://twitter.com/jesielviana)
 [![Linkedin: Jesiel Viana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesielviana/)](https://www.linkedin.com/in/jesielviana/)
-[![Instagram: jesielviana](https://img.shields.io/badge/-Instagram-mediumvioletred?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/jesielviana)](http://instagram.com/jesielviana)
+[![Blog](https://img.shields.io/badge/-Blog-1b212d?style=flat-square&logo=gatsby&logoColor=white&link=https://www.jesielviana.com/blog)](https://www.jesielviana.com/blog)
 
 🚀 &nbsp; Check out my [website](https://www.jesielviana.com/) <br>
 
