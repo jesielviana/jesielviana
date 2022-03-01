@@ -4,7 +4,7 @@
 🇧🇷  &nbsp; Living in Picos - PI, Brazil
 
 ### What I'm working on 👨‍💻
-🔭  &nbsp; I’m currently working on my [Blog](https://www.jesielviana.com/) and [Web Dev Course](https://webdev.jesielviana.com/)<br>
+🔭  &nbsp; I’m currently working on my [Web Dev Book](https://webdev.jesielviana.com/)<br>
 🌱  &nbsp; I’m currently learning Node.js, Vue.js, Collaborative Work... <br>
 👯  &nbsp; I’m looking to collaborate on Groupware Research, PBL and Education in Software Engineering. <br>
 💬  &nbsp; Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, Vue.js, PBL... <br>
