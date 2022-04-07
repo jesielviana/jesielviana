@@ -1,20 +1,18 @@
 ## Hey, I'm Jesiel Viana! 👋
 
-🧑‍🏫  &nbsp; Professor at Instituto Federal do Piauí - IFPI <br>
-🇧🇷  &nbsp; Living in Picos - PI, Brazil
+🧑‍🏫  &nbsp; Professor at Instituto Federal do Piauí - [IFPI Campus Picos](https://ifpi.edu.br) <br>
 
 ### What I'm working on 👨‍💻
-🔭  &nbsp; I’m currently working on my [Web Dev Book](https://webdev.jesielviana.com/)<br>
-🌱  &nbsp; I’m currently learning Node.js, Vue.js, Collaborative Work... <br>
-👯  &nbsp; I’m looking to collaborate on Groupware Research, PBL and Education in Software Engineering. <br>
+🔭  &nbsp; I’m currently working on my ebook: [Web Dev Book](https://webdev.jesielviana.com/)<br>
+🧑‍💻  &nbsp; My courses resources and projects are available on [IFPI Picos GitHub](https://github.com/ifpi-picos). <br>
 💬  &nbsp; Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, Vue.js, PBL... <br>
 
 ### 📫 How to reach me? 🌎
 [![Twitter Follow](https://img.shields.io/twitter/follow/jesielviana?style=social)](https://twitter.com/jesielviana)
 [![Linkedin: Jesiel Viana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesielviana/)](https://www.linkedin.com/in/jesielviana/)
-[![Blog](https://img.shields.io/badge/-Blog-1b212d?style=flat-square&logo=gatsby&logoColor=white&link=https://www.jesielviana.com/blog)](https://www.jesielviana.com/blog)
+[![Blog](https://img.shields.io/badge/-Blog-1b212d?style=flat-square&logo=gatsby&logoColor=white&link=https://jesielviana.com)](https://www.jesielviana.com/blog)
 
-🚀 &nbsp; Check out my [website](https://www.jesielviana.com/) <br>
+🚀 &nbsp; Check out my [blog](https://www.jesielviana.com/) <br>
 
 
 ## ⚡ Technologies
