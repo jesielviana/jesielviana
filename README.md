@@ -5,7 +5,7 @@
 ### What I'm working on 👨‍💻
 🔭  &nbsp; I’m currently working on my ebook: [Web Dev Book](https://webdev.jesielviana.com/)<br>
 🧑‍💻  &nbsp; My courses resources and projects are available on [IFPI Picos GitHub](https://github.com/ifpi-picos). <br>
-💬  &nbsp; Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, Vue.js, PBL... <br>
+💬  &nbsp; Ask me about Web Developmnet, HTTP, HTML, CSS, Javascript, Node.js, Vue.js, NextJs, Vufind, etc. <br>
 
 ### 📫 How to reach me? 🌎
 [![Twitter Follow](https://img.shields.io/twitter/follow/jesielviana?style=social)](https://twitter.com/jesielviana)
