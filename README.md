@@ -3,7 +3,7 @@
 🧑‍🏫  &nbsp; **Professor no Instituto Federal do Piauí** e Pesquisador no IBICT <br>
 
 ### Projetos atuais 👨‍💻
-📘  &nbsp; eBook Guia Web: [Guia Web](https://www.guiaweb.dev.br)<br>
+📘  &nbsp; [Livro Aprenda Programar com JavaScript](https://leanpub.com/aprenda-programar-com-javascript)<br>
 🧑‍💻  &nbsp; Fábrica Escola de Software MAMBEE (IFPI). <br>
 💻  &nbsp; [Oasisbr](https://oasisbr.ibict.br/vufind/), [BrCris](https://brcris.ibict.br/), [BDTD](https://bdtd.ibict.br/vufind/) (IBICT). <br>
 
