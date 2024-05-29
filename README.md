@@ -1,6 +1,6 @@
 # Olá, eu sou Jesiel Viana! 👋
 
-🧑‍🏫  &nbsp; **Professor no Instituto Federal do Piauí** e Pesquisador no IBICT <br>
+🧑‍🏫  &nbsp; **Professor no Instituto Federal do Piauí** e Colaborador em projetos de pesquisa no IBICT <br>
 
 ### Projetos atuais 👨‍💻
 📘  &nbsp; [Livro Aprenda Programar com JavaScript](https://www.amazon.com.br/dp/B0D522X242)<br>
