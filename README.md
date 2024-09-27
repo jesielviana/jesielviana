@@ -10,7 +10,6 @@
 ### 📫 Contatos 🌎
 [![Twitter Follow](https://img.shields.io/twitter/follow/jesielviana?style=social)](https://twitter.com/jesielviana)
 [![Linkedin: Jesiel Viana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesielviana/)](https://www.linkedin.com/in/jesielviana/)
-[![Blog](https://img.shields.io/badge/-Blog-1b212d?style=flat-square&logo=gatsby&logoColor=white&link=https://jesielviana.vercel.app)](https://jesielviana.vercel.app)
 
 ### ⚡ Conhecimentos
 
